@@ -32,7 +32,7 @@ The entrance of this app is located at:
 the path you place the folder\App_beta_v1_0\beta1_0.exe
 ```
 
-Just double click the beta1_0.exe, then the program get start.
+Just double left click the beta1_0.exe, then the program get start. Or, it's better to right click the beta1_0.exe,then 'Run as administer'(以管理员身份运行).
 
 Noticing: The anti-virus software like 360 may report a virus, **ignore it**. The app will not do any harm to your computer, don't worry about it.
 
@@ -72,7 +72,7 @@ It may take some time to finish the entire progress. Usually, the app will only 
 
 If the users want to use the GPU computing for this app. Firstly, please make sure that your GPU supports GPU computing. Secondly, you need to install the corresponding version of Cuda and Cudnn to your computer. I recommend that the version of Cuda is 9.0 and the version of Cudnn is 7.0.5.
 
-The running processing looks like this, the blue rectangle marks which block the app is working at the moment.
+The running processing looks like this, the blue rectangle marks at which block the app is working at the moment.
 
 <div align=center>
 <img src="https://github.com/ChenZuzhi/Weld-Defect-Recognition-App/blob/master/ImgsForReadme/4.png">
