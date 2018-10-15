@@ -32,7 +32,9 @@ Noticing: The anti-virus software like 360 may report a virus, **ignore it**. Th
 
 If the users open the app successfully, you shall see something like this:
 
-![image](http://github.com/ChenZuzhi/Weld-Defect-Recognition-App/raw/master/ImgsForReadme/1.png)
+<div align=center>
+<img src="https://github.com/ChenZuzhi/Weld-Defect-Recognition-App/blob/master/ImgsForReadme/1.png">
+</div>
 
 Then the users can click the 'select an image' button to open an image(Noticing that *.jpg, *.jpeg, *.png, *.bmp image format are supported):
 
