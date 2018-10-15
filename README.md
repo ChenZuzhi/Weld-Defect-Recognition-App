@@ -35,26 +35,28 @@ If the users open the app successfully, you shall see something like this:
 <div align=center>
 <img src="https://github.com/ChenZuzhi/Weld-Defect-Recognition-App/blob/master/ImgsForReadme/1.png">
 </div>
- 
- 
- 
+ <br>
+ <br>
+ <br>
 
 Then the users can click the 'select an image' button to open an image(Noticing that *.jpg, *.jpeg, *.png, *.bmp image format are supported):
 
 <div align=center>
 <img src="https://github.com/ChenZuzhi/Weld-Defect-Recognition-App/blob/master/ImgsForReadme/2.png">
 </div>
-
-
+ <br>
+ <br>
+ <br>
 
 If the image is opened successfully, the users shall see something like this:
 
 <div align=center>
 <img src="https://github.com/ChenZuzhi/Weld-Defect-Recognition-App/blob/master/ImgsForReadme/3.png">
 </div>
-
-
-
+ <br>
+ <br>
+ <br>
+ 
 Now the image is ready, the users can click the 'run' button to run the recognition code.
 
 It may take some time to finish the entire progress. Usually, the app will only use the CPU to do the computing, so it will be kind of a slow. 
@@ -66,8 +68,9 @@ The running processing looks like this, the blud rectangle marks the block that 
 <div align=center>
 <img src="https://github.com/ChenZuzhi/Weld-Defect-Recognition-App/blob/master/ImgsForReadme/4.png">
 </div>
-
-
+ <br>
+ <br>
+ <br>
 
 When the progress is done. The users will see the final image in the dialog window.
 
@@ -78,15 +81,17 @@ The finished dialog looks like this:
 <div align=center>
 <img src="https://github.com/ChenZuzhi/Weld-Defect-Recognition-App/blob/master/ImgsForReadme/5.png">
 </div>
-
-
+ <br>
+ <br>
+ <br>
 
 Clicking the 'export' button then the users can export the finished image:
 
 <div align=center>
 <img src="https://github.com/ChenZuzhi/Weld-Defect-Recognition-App/blob/master/ImgsForReadme/6.png">
 </div>
-
-
+ <br>
+ <br>
+ <br>
 
 That's it. After that, the users can choose to open another image or exit the app.
