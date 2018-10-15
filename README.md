@@ -1,7 +1,9 @@
 # Weld-Defect-Recognition-App
 
 ## 0.About this app
+
 Project name: Weld defect recognition
+
 Version: Beta 1.0
 
 This app can be run on 
