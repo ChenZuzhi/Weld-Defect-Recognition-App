@@ -6,7 +6,27 @@ Project name: Weld defect recognition
 
 Version: Beta 1.0
 
-This app can be run on ####################
+
+## 1.Operating system
+
+This app can be run on 64bit **windows** operating system, see the section 1~3 to know how to use this app.
+ <br>
+ <br>
+
+For **Linux**, you need to open the terminal, and install "wine" in order to run exe files on linux, this may take some time.
+
+```
+sudo apt install wine-stable
+sudo apt install wine-development
+```
+
+After the installation is done, change directory to "../App_beta_v1_0/", then using the code below to run the exe file:
+```
+wine beta1_0.exe
+```
+
+Then go to the section 3.
+
 
 ## 1.Installation
 
@@ -61,7 +81,7 @@ Now the image is ready, the users can click the 'run' button to run the recognit
 
 It may take some time to finish the entire progress. Usually, the app will only use the CPU to do the computing, so it will be kind of a slow. 
 
-If the users want to use the GPU computing for this app. Firstly, please make sure your GPU can support GPU computing. Secondly, you need to install the corresponding version of Cuda and Cudnn to your computer.####################More info
+If the users want to use the GPU computing for this app. Firstly, please make sure that your GPU supports GPU computing. Secondly, you need to install the corresponding version of Cuda and Cudnn to your computer.####################More info
 
 The running processing looks like this, the blud rectangle marks the block that the app is working on at the moment.
 
