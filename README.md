@@ -70,7 +70,7 @@ Now the image is ready, the users can click the 'run' button to run the recognit
 
 It may take some time to finish the entire progress. Usually, the app will only use the CPU to do the computing, so it will be kind of a slow. 
 
-If the users want to use the GPU computing for this app. Firstly, please make sure that your GPU supports GPU computing. Secondly, you need to install the corresponding version of Cuda and Cudnn to your computer.####################More info
+If the users want to use the GPU computing for this app. Firstly, please make sure that your GPU supports GPU computing. Secondly, you need to install the corresponding version of Cuda and Cudnn to your computer. I recommend that the version of Cuda is 9.0 and the version of Cudnn is 7.0.5.
 
 The running processing looks like this, the blue rectangle marks which block the app is working at the moment.
 
