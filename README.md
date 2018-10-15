@@ -42,11 +42,15 @@ Then the users can click the 'select an image' button to open an image(Noticing 
 <img src="https://github.com/ChenZuzhi/Weld-Defect-Recognition-App/blob/master/ImgsForReadme/2.png">
 </div>
 
+
+
 If the image is opened successfully, the users shall see something like this:
 
 <div align=center>
 <img src="https://github.com/ChenZuzhi/Weld-Defect-Recognition-App/blob/master/ImgsForReadme/3.png">
 </div>
+
+
 
 Now the image is ready, the users can click the 'run' button to run the recognition code.
 
@@ -60,6 +64,8 @@ The running processing looks like this, the blud rectangle marks the block that 
 <img src="https://github.com/ChenZuzhi/Weld-Defect-Recognition-App/blob/master/ImgsForReadme/4.png">
 </div>
 
+
+
 When the progress is done. The users will see the final image in the dialog window.
 
 The users can export the image to anywhere that makes them happy.
@@ -70,10 +76,14 @@ The finished dialog looks like this:
 <img src="https://github.com/ChenZuzhi/Weld-Defect-Recognition-App/blob/master/ImgsForReadme/5.png">
 </div>
 
+
+
 Clicking the 'export' button then the users can export the finished image:
 
 <div align=center>
 <img src="https://github.com/ChenZuzhi/Weld-Defect-Recognition-App/blob/master/ImgsForReadme/6.png">
 </div>
+
+
 
 That's it. After that, the users can choose to open another image or exit the app.
