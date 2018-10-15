@@ -35,8 +35,9 @@ If the users open the app successfully, you shall see something like this:
 <div align=center>
 <img src="https://github.com/ChenZuzhi/Weld-Defect-Recognition-App/blob/master/ImgsForReadme/1.png">
 </div>
-</div>
-</div>
+<br\>
+<br\>
+<br\>
 
 Then the users can click the 'select an image' button to open an image(Noticing that *.jpg, *.jpeg, *.png, *.bmp image format are supported):
 
