@@ -6,7 +6,7 @@ Project name: Weld defect recognition
 
 Version: Beta 1.0
 
-This app can be run on 
+This app can be run on ####################
 
 ## 1.Installation
 
@@ -32,15 +32,15 @@ Noticing: The anti-virus software like 360 may report a virus, **ignore it**. Th
 
 If the users open the app successfully, you shall see something like this:
 
-########################Here's an image
+![image](http://github.com/ChenZuzhi/Weld-Defect-Recognition-App/raw/master/ImagesForReadme/1.png)
 
 Then the users can click the 'select an image' button to open an image(Noticing that *.jpg, *.jpeg, *.png, *.bmp image format are supported):
 
-########################Image2
+![image](http://github.com/ChenZuzhi/Weld-Defect-Recognition-App/raw/master/ImagesForReadme/2.png)
 
 If the image is opened successfully, the users shall see something like this:
 
-########################Image3
+![image](http://github.com/ChenZuzhi/Weld-Defect-Recognition-App/raw/master/ImagesForReadme/3.png)
 
 Now the image is ready, the users can click the 'run' button to run the recognition code.
 
@@ -50,7 +50,7 @@ If the users want to use the GPU computing for this app. Firstly, please make su
 
 The running processing looks like this, the blud rectangle marks the block that the app is working on at the moment.
 
-##########################Image4
+![image](http://github.com/ChenZuzhi/Weld-Defect-Recognition-App/raw/master/ImagesForReadme/4.png)
 
 When the progress is done. The users will see the final image in the dialog window.
 
@@ -58,10 +58,10 @@ The users can export the image to anywhere that makes them happy.
 
 The finished dialog looks like this:
 
-##########################Image5
+![image](http://github.com/ChenZuzhi/Weld-Defect-Recognition-App/raw/master/ImagesForReadme/5.png)
 
 Clicking the 'export' button then the users can export the finished image:
 
-###########################Image6
+![image](http://github.com/ChenZuzhi/Weld-Defect-Recognition-App/raw/master/ImagesForReadme/6.png)
 
 That's it. After that, the users can choose to open another image or exit the app.
